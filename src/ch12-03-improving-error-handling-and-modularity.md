@@ -1,37 +1,40 @@
-## Refactoring to Improve Modularity and Error Handling
+## Рефакторинг для покращення модульності та обробки помилок
 
-To improve our program, we’ll fix four problems that have to do with the
-program’s structure and how it’s handling potential errors. First, our `main`
-function now performs two tasks: it parses arguments and reads files. As our
-program grows, the number of separate tasks the `main` function handles will
-increase. As a function gains responsibilities, it becomes more difficult to
-reason about, harder to test, and harder to change without breaking one of its
-parts. It’s best to separate functionality so each function is responsible for
-one task.
+Для покращення програми розв'яжімо чотири проблеми, пов’язані зі структурою 
+програми та тим, як вона обробляє потенційні помилки. По-перше, наша функція 
+`main` тепер виконує два завдання: розбирає параметри та читає файли. Зі 
+зростанням нашої програми кількість окремих завдань, які обробляє функція 
+`main`, збільшуватиметься. Зі більшенням відповідальності функції її стає 
+складніше розуміти, важче тестувати, важче змінювати, не порушуючи інших її 
+частин. Найкраще розділити функціональність, щоб кожна функція відповідала за 
+одне завдання.
 
-This issue also ties into the second problem: although `query` and `file_path`
-are configuration variables to our program, variables like `contents` are used
-to perform the program’s logic. The longer `main` becomes, the more variables
-we’ll need to bring into scope; the more variables we have in scope, the harder
-it will be to keep track of the purpose of each. It’s best to group the
-configuration variables into one structure to make their purpose clear.
+Це питання також пов'язане з другою проблемою: у той час як змінні `query` та `
+file_path` є конфігураційними змінними нашої програми, змінні на кшталт 
+`contents` використовуються для реалізації логіки програм. Що довшим ставатиме
+`main`, то більше змінних треба буде додати в область видимості; що більше 
+змінних в області видимості, тим складніше буде відстежувати призначення кожної 
+з них. Найкраще згрупувати конфігураційні змінні в одну структуру, щоб унаочнити
+їнє призначення.
 
-The third problem is that we’ve used `expect` to print an error message when
-reading the file fails, but the error message just prints `Should have been
-able to read the file`. Reading a file can fail in a number of ways: for
-example, the file could be missing, or we might not have permission to open it.
-Right now, regardless of the situation, we’d print the same error message for
-everything, which wouldn’t give the user any information!
+Третя проблема полягає в тому, що ми використали `expect`, щоб роздрукувати 
+повідомлення про помилку коли не вдається прочитати файл, але саме повідомлення
+лише каже `Should have been able to read the file`. Читання файлу може бути
+невдалим через багато причин: скажімо, такого файлу може не існувати, або у нас
+може не бути прав відкривати його. Поки що, незалежно від ситуації, ми 
+друкуємо те саме повідомлення про помилку для будь-якої причини, що не дає 
+користувачеві жодної інформації!
 
-Fourth, we use `expect` repeatedly to handle different errors, and if the user
-runs our program without specifying enough arguments, they’ll get an `index out
-of bounds` error from Rust that doesn’t clearly explain the problem. It would
-be best if all the error-handling code were in one place so future maintainers
-had only one place to consult the code if the error-handling logic needed to
-change. Having all the error-handling code in one place will also ensure that
-we’re printing messages that will be meaningful to our end users.
+По-четверте, ви використовуємо `expect` знову і знову для обробки різних 
+помилок, і якщо користувач запустить програму, не вказавши потрібні параметри, 
+то побачить лише повідомлення Rust про помилку `index out of bounds`, що не дуже
+чітко описує проблему. Найкраще буде, якщо код обробки помилок буде в одному 
+місці, щоб той, хто підтримуватиме код у майбутньому, мав зазирнути лише в одне 
+місце в коді, якщо треба буде змінити логіку обробки помилок. Те, що код обробки
+помилок знаходиться в одному місці, також гарантує, що ми друкуємо повідомлення,
+зрозумілі для наших кінцевих користувачів.
 
-Let’s address these four problems by refactoring our project.
+Щоб виправити ці чотири проблеми, зробімо рефакторинг нашого проєкту.
 
 ### Separation of Concerns for Binary Projects
 
