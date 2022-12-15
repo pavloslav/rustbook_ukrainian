@@ -1,60 +1,60 @@
-## crwdns27928:0crwdne27928:0
+## crwdns84890:0crwdne84890:0
 
-crwdns27930:0crwdne27930:0 crwdns27932:0crwdne27932:0 crwdns27934:0crwdne27934:0 crwdns27936:0crwdne27936:0 crwdns27938:0crwdne27938:0 crwdns27940:0crwdne27940:0
+crwdns84892:0crwdne84892:0 crwdns84894:0crwdne84894:0 crwdns84896:0crwdne84896:0 crwdns84898:0crwdne84898:0 crwdns84900:0crwdne84900:0 crwdns84902:0crwdne84902:0
 
-> ### crwdns27942:0crwdne27942:0
+> ### crwdns84904:0crwdne84904:0
 > 
-> crwdns27944:0crwdne27944:0 crwdns27946:0crwdne27946:0 crwdns27948:0crwdne27948:0
+> crwdns84906:0crwdne84906:0 crwdns84908:0crwdne84908:0 crwdns84910:0crwdne84910:0
 > 
-> crwdns27950:0crwdne27950:0 crwdns27952:0[profile]crwdne27952:0 crwdns27954:0crwdne27954:0
+> crwdns84912:0crwdne84912:0 crwdns84914:0[profile]crwdne84914:0 crwdns84916:0crwdne84916:0
 > 
 > ```toml
-> crwdns27956:0[profile.release]crwdne27956:0
+> crwdns84918:0[profile.release]crwdne84918:0
 > ```
 
-crwdns27958:0crwdne27958:0
+crwdns84920:0crwdne84920:0
 
-<span class="filename">crwdns27960:0crwdne27960:0</span>
-
-```rust,should_panic,panics
-crwdns27962:0crwdne27962:0
-```
-
-crwdns27964:0crwdne27964:0
-
-```console
-crwdns27966:0crwdne27966:0
-```
-
-crwdns27968:0crwdne27968:0 crwdns27970:0crwdne27970:0
-
-crwdns27972:0crwdne27972:0 crwdns27974:0crwdne27974:0 crwdns27976:0crwdne27976:0 crwdns27978:0crwdne27978:0
-
-### crwdns27980:0crwdne27980:0
-
-crwdns27982:0crwdne27982:0 crwdns27984:0crwdne27984:0
-
-<span class="filename">crwdns27986:0crwdne27986:0</span>
+<span class="filename">crwdns84922:0crwdne84922:0</span>
 
 ```rust,should_panic,panics
-crwdns27988:0crwdne27988:0
+crwdns84924:0crwdne84924:0
 ```
 
-
-<span class="caption">crwdns27990:0crwdne27990:0</span>
-
-crwdns27992:0crwdne27992:0 crwdns27994:0crwdne27994:0 crwdns27996:0crwdne27996:0
-
-crwdns27998:0crwdne27998:0 crwdns28000:0crwdne28000:0 crwdns28002:0crwdne28002:0
-
-crwdns28004:0crwdne28004:0 crwdns28006:0crwdne28006:0
+crwdns84926:0crwdne84926:0
 
 ```console
-crwdns28008:0crwdne28008:0
+crwdns84928:0crwdne84928:0
 ```
 
-crwdns28010:0crwdne28010:0
-99. crwdns28012:0crwdne28012:0 crwdns28014:0crwdne28014:0 crwdns28016:0crwdne28016:0 crwdns28018:0crwdne28018:0 crwdns28020:0crwdne28020:0 crwdns28022:0crwdne28022:0 crwdns28024:0crwdne28024:0 crwdns28026:0crwdne28026:0
+crwdns84930:0crwdne84930:0 crwdns84932:0crwdne84932:0
+
+crwdns84934:0crwdne84934:0 crwdns84936:0crwdne84936:0 crwdns84938:0crwdne84938:0 crwdns84940:0crwdne84940:0
+
+### crwdns84942:0crwdne84942:0
+
+crwdns84944:0crwdne84944:0 crwdns84946:0crwdne84946:0
+
+<span class="filename">crwdns84948:0crwdne84948:0</span>
+
+```rust,should_panic,panics
+crwdns84950:0crwdne84950:0
+```
+
+
+<span class="caption">crwdns84952:0crwdne84952:0</span>
+
+crwdns84954:0crwdne84954:0 crwdns84956:0crwdne84956:0 crwdns84958:0crwdne84958:0
+
+crwdns84960:0crwdne84960:0 crwdns84962:0crwdne84962:0 crwdns84964:0crwdne84964:0
+
+crwdns84966:0crwdne84966:0 crwdns84968:0crwdne84968:0
+
+```console
+crwdns84970:0crwdne84970:0
+```
+
+crwdns84972:0crwdne84972:0
+99. crwdns84974:0crwdne84974:0 crwdns84976:0crwdne84976:0 crwdns84978:0crwdne84978:0 crwdns84980:0crwdne84980:0 crwdns84982:0crwdne84982:0 crwdns84984:0crwdne84984:0 crwdns84986:0crwdne84986:0 crwdns84988:0crwdne84988:0
 
 <!-- manual-regeneration
 cd listings/ch09-error-handling/listing-09-01
@@ -64,15 +64,15 @@ check the backtrace number mentioned in the text below the listing
 -->
 
 ```console
-crwdns28028:0:panicking:crwdnd28028:0:panicking:crwdnd28028:0:slice:crwdnd28028:0:index:crwdnd28028:0[T]crwdnd28028:0:slice:crwdnd28028:0:index:crwdnd28028:0:ops:crwdnd28028:0:index:crwdnd28028:0[T]crwdnd28028:0:vec:crwdnd28028:0:ops:crwdnd28028:0:index:crwdnd28028:0:ops:crwdnd28028:0:function:crwdnd28028:0:FnOnce:crwdne28028:0
+crwdns84990:0:panicking:crwdnd84990:0:panicking:crwdnd84990:0:slice:crwdnd84990:0:index:crwdnd84990:0[T]crwdnd84990:0:slice:crwdnd84990:0:index:crwdnd84990:0:ops:crwdnd84990:0:index:crwdnd84990:0[T]crwdnd84990:0:vec:crwdnd84990:0:ops:crwdnd84990:0:index:crwdnd84990:0:ops:crwdnd84990:0:function:crwdnd84990:0:FnOnce:crwdne84990:0
 ```
 
 
-<span class="caption">crwdns28030:0crwdne28030:0</span>
+<span class="caption">crwdns84992:0crwdne84992:0</span>
 
-crwdns28032:0crwdne28032:0 crwdns28034:0crwdne28034:0 crwdns28036:0crwdne28036:0 crwdns28038:0crwdne28038:0
+crwdns84994:0crwdne84994:0 crwdns84996:0crwdne84996:0 crwdns84998:0crwdne84998:0 crwdns85000:0crwdne85000:0
 
-crwdns28040:0crwdne28040:0 crwdns28042:0crwdne28042:0 crwdns28044:0crwdne28044:0 crwdns28046:0crwdne28046:0
+crwdns85002:0crwdne85002:0 crwdns85004:0crwdne85004:0 crwdns85006:0crwdne85006:0 crwdns85008:0crwdne85008:0
 
-crwdns28048:0crwdne28048:0<!-- ignore --> crwdns28050:0crwdne28050:0 crwdns28052:0crwdne28052:0
-crwdns28054:0crwdne28054:0
+crwdns85010:0crwdne85010:0<!-- ignore --> crwdns85012:0crwdne85012:0 crwdns85014:0crwdne85014:0
+crwdns85016:0crwdne85016:0

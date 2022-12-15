@@ -1,211 +1,259 @@
-## crwdns40472:0crwdne40472:0
+## crwdns80646:0crwdne80646:0
 
-crwdns40478:0crwdne40478:0 crwdns40482:0crwdne40482:0
+crwdns80648:0crwdne80648:0 crwdns80650:0crwdne80650:0
 
-### crwdns40486:0crwdne40486:0
+### crwdns80652:0crwdne80652:0
 
-crwdns40490:0crwdne40490:0 crwdns40494:0crwdne40494:0 crwdns40500:0crwdne40500:0
+crwdns80654:0crwdne80654:0 crwdns80656:0crwdne80656:0 crwdns80658:0crwdne80658:0
 
-crwdns40504:0crwdne40504:0 crwdns40506:0crwdne40506:0
+crwdns80660:0crwdne80660:0 crwdns80662:0crwdne80662:0
 
-<span class="filename">crwdns40510:0crwdne40510:0</span>
+<span class="filename">crwdns80664:0crwdne80664:0</span>
 
 ```rust
-crwdns40514:0crwdne40514:0
+crwdns80666:0crwdne80666:0
 ```
 
-crwdns40516:0crwdne40516:0 crwdns40518:0crwdne40518:0 crwdns40520:0crwdne40520:0 crwdns40522:0crwdne40522:0 crwdns40524:0crwdne40524:0 crwdns40526:0crwdne40526:0
+crwdns80668:0crwdne80668:0 crwdns80670:0crwdne80670:0 crwdns80672:0crwdne80672:0 crwdns80674:0crwdne80674:0<!--
+ignore --> crwdns80676:0crwdne80676:0
 
-crwdns40528:0crwdne40528:0
+crwdns80678:0crwdne80678:0 crwdns80680:0crwdne80680:0
 
-```text
-crwdns40530:0crwdne40530:0
+crwdns80682:0crwdne80682:0
+
+```console
+crwdns80684:0crwdne80684:0
 ```
 
-crwdns40532:0crwdne40532:0
+crwdns80686:0crwdne80686:0
 
 ```rust,ignore
-crwdns40534:0crwdne40534:0
+crwdns80688:0crwdne80688:0
 ```
 
-crwdns40536:0crwdne40536:0
+crwdns80690:0crwdne80690:0
 
-```text
-crwdns40538:0crwdne40538:0
+```console
+crwdns80692:0crwdne80692:0
 ```
 
-crwdns40540:0crwdne40540:0 crwdns40542:0crwdne40542:0
+crwdns80694:0crwdne80694:0 crwdns80696:0crwdne80696:0 crwdns80698:0crwdne80698:0
 
-<span class="filename">crwdns40544:0crwdne40544:0</span>
+<span class="filename">crwdns80700:0crwdne80700:0</span>
+
+```rust,ignore,does_not_compile
+crwdns80702:0crwdne80702:0
+```
+
+crwdns80704:0crwdne80704:0
+
+```console
+crwdns80706:0crwdne80706:0
+```
+
+crwdns80708:0crwdne80708:0 crwdns80710:0crwdne80710:0 crwdns80712:0crwdne80712:0 crwdns80714:0crwdne80714:0
+
+<span class="filename">crwdns80716:0crwdne80716:0</span>
+
+```rust
+crwdns80718:0crwdne80718:0
+```
+
+crwdns80720:0crwdne80720:0
+
+#### crwdns80722:0crwdne80722:0
+
+crwdns80724:0crwdne80724:0 crwdns80726:0crwdne80726:0
+
+<span class="filename">crwdns80728:0crwdne80728:0</span>
+
+```rust
+crwdns80730:0crwdne80730:0
+```
+
+crwdns80732:0crwdne80732:0 crwdns80734:0crwdne80734:0
+
+```console
+crwdns80736:0crwdne80736:0
+```
+
+crwdns80738:0crwdne80738:0 crwdns80740:0crwdne80740:0 crwdns80742:0crwdne80742:0
+
+crwdns80744:0crwdne80744:0 crwdns80746:0crwdne80746:0
+
+#### crwdns80748:0crwdne80748:0
+
+crwdns80750:0crwdne80750:0
+
+<span class="filename">crwdns80752:0crwdne80752:0</span>
+
+```rust
+crwdns80754:0crwdne80754:0
+```
+
+
+<span class="caption">crwdns80756:0crwdne80756:0</span>
+
+crwdns80758:0crwdne80758:0 crwdns80760:0crwdne80760:0
+
+```console
+crwdns80762:0crwdne80762:0
+```
+
+crwdns80764:0crwdne80764:0 crwdns80766:0crwdne80766:0 crwdns80768:0crwdne80768:0 crwdns80770:0crwdne80770:0
+
+<span class="filename">crwdns80772:0crwdne80772:0</span>
+
+```rust,ignore,does_not_compile
+crwdns80774:0crwdne80774:0
+```
+
+crwdns80776:0crwdne80776:0 crwdns80778:0crwdne80778:0
+
+```console
+crwdns80780:0crwdne80780:0
+```
+
+crwdns80782:0crwdne80782:0 crwdns80784:0crwdne80784:0 crwdns80786:0crwdne80786:0 crwdns80788:0crwdne80788:0
+
+### crwdns80790:0crwdne80790:0
+
+crwdns80792:0crwdne80792:0 crwdns80794:0crwdne80794:0 crwdns80796:0crwdne80796:0
+
+crwdns80798:0crwdne80798:0 crwdns80800:0crwdne80800:0
+
+#### crwdns80802:0crwdne80802:0
+
+crwdns80804:0crwdne80804:0
+
+crwdns80806:0crwdne80806:0
+
+<span class="filename">crwdns80808:0crwdne80808:0</span>
 
 ```rust,ignore
-crwdns40546:0crwdne40546:0
+crwdns80810:0crwdne80810:0
 ```
 
-crwdns40548:0crwdne40548:0
+crwdns80812:0crwdne80812:0 crwdns80814:0crwdne80814:0 crwdns80816:0crwdne80816:0
 
-```text
-   crwdns40550:0[E0308]crwdnd40550:0{integer}crwdne40550:0
+
+<!-- manual-regeneration
+cd listings/ch03-common-programming-concepts/no-listing-32-loop
+cargo run
+CTRL-C
+-->
+
+```console
+crwdns80818:0crwdne80818:0
+crwdns80820:0crwdne80820:0
+crwdns80822:0crwdne80822:0
+crwdns80824:0crwdne80824:0
+crwdns80826:0crwdne80826:0
 ```
 
-crwdns40552:0crwdne40552:0 crwdns40554:0crwdne40554:0 crwdns40556:0crwdne40556:0 crwdns40558:0crwdne40558:0
+crwdns80828:0crwdne80828:0 crwdns80830:0crwdne80830:0
 
-<span class="filename">crwdns40560:0crwdne40560:0</span>
+crwdns80832:0crwdne80832:0 crwdns80834:0crwdne80834:0 crwdns80836:0crwdne80836:0<!-- ignore
+--> crwdns80838:0crwdne80838:0
+
+crwdns80840:0crwdne80840:0
+
+#### crwdns80842:0crwdne80842:0
+
+crwdns80844:0crwdne80844:0 crwdns80846:0crwdne80846:0 crwdns80848:0crwdne80848:0
 
 ```rust
-crwdns40562:0crwdne40562:0
+crwdns80850:0crwdne80850:0
 ```
 
-crwdns40564:0crwdne40564:0
+crwdns80852:0crwdne80852:0 crwdns80854:0crwdne80854:0 crwdns80856:0crwdne80856:0 crwdns80858:0crwdne80858:0 crwdns80860:0crwdne80860:0 crwdns80862:0crwdne80862:0
 
-#### crwdns40566:0crwdne40566:0
+#### crwdns80864:0crwdne80864:0
 
-crwdns40568:0crwdne40568:0 crwdns40570:0crwdne40570:0
-
-<span class="filename">crwdns40572:0crwdne40572:0</span>
+crwdns80866:0crwdne80866:0 crwdns80868:0crwdne80868:0 crwdns80870:0crwdne80870:0 crwdns80872:0crwdne80872:0
 
 ```rust
-crwdns40574:0crwdne40574:0
+crwdns80874:0crwdne80874:0
 ```
 
-crwdns40576:0crwdne40576:0 crwdns40578:0crwdne40578:0
+crwdns80876:0crwdne80876:0 crwdns80878:0crwdne80878:0 crwdns80880:0crwdne80880:0 crwdns80882:0crwdne80882:0 crwdns80884:0crwdne80884:0
 
-```text
-crwdns40580:0crwdne40580:0
+```console
+crwdns80886:0crwdne80886:0
 ```
 
-crwdns40582:0crwdne40582:0 crwdns40584:0crwdne40584:0
+#### crwdns80888:0crwdne80888:0
 
-crwdns40586:0crwdne40586:0 crwdns40588:0crwdne40588:0
+crwdns80890:0crwdne80890:0 crwdns80892:0crwdne80892:0 crwdns80894:0crwdne80894:0 crwdns80896:0crwdne80896:0 crwdns80898:0crwdne80898:0 crwdns80900:0crwdne80900:0
 
-#### crwdns40590:0crwdne40590:0
-
-crwdns40592:0crwdne40592:0
-
-<figure>
-crwdns40594:0{
-        5
-    }crwdnd40594:0{
-        6
-    }crwdne40594:0
-</figure>
-
-crwdns40596:0crwdne40596:0 crwdns40598:0crwdne40598:0
-
-```text
-crwdns40600:0crwdne40600:0
-```
-
-crwdns40602:0crwdne40602:0 crwdns40604:0crwdne40604:0 crwdns40606:0crwdne40606:0 crwdns40608:0crwdne40608:0
-
-<span class="filename">crwdns40610:0crwdne40610:0</span>
-
-```rust,ignore
-crwdns40614:0{
-        5
-    }crwdne40614:0
-```
-
-crwdns40618:0crwdne40618:0 crwdns40620:0crwdne40620:0
-
-```text
-   crwdns40624:0[E0308]crwdnd40624:0{integer}crwdne40624:0
-```
-
-crwdns40628:0crwdne40628:0 crwdns40632:0crwdne40632:0 crwdns40638:0crwdne40638:0 crwdns40642:0crwdne40642:0
-
-### crwdns40646:0crwdne40646:0
-
-crwdns40648:0crwdne40648:0 crwdns40652:0crwdne40652:0 crwdns40658:0crwdne40658:0 crwdns40662:0crwdne40662:0
-
-crwdns40666:0crwdne40666:0 crwdns40670:0crwdne40670:0
-
-#### crwdns40676:0crwdne40676:0
-
-crwdns40680:0crwdne40680:0
-
-crwdns40682:0crwdne40682:0
-
-<span class="filename">crwdns40684:0crwdne40684:0</span>
-
-```rust,ignore
-crwdns40686:0crwdne40686:0
-```
-
-crwdns40692:0crwdne40692:0 crwdns40696:0crwdne40696:0 crwdns40700:0crwdne40700:0
-
-```text
-crwdns40702:0crwdne40702:0
-crwdns40708:0crwdne40708:0
-crwdns40710:0crwdne40710:0
-crwdns40712:0crwdne40712:0
-crwdns40714:0crwdne40714:0
-```
-
-crwdns40716:0crwdne40716:0 crwdns40718:0crwdne40718:0
-
-crwdns40720:0crwdne40720:0 crwdns40722:0crwdne40722:0 crwdns40724:0crwdne40724:0
-
-#### crwdns40726:0crwdne40726:0
-
-crwdns40728:0crwdne40728:0 crwdns40730:0crwdne40730:0 crwdns40732:0crwdne40732:0 crwdns40734:0crwdne40734:0
-
-crwdns40736:0crwdne40736:0 crwdns40738:0crwdne40738:0 crwdns40740:0crwdne40740:0
-
-<span class="filename">crwdns40742:0crwdne40742:0</span>
+<span class="filename">crwdns80902:0crwdne80902:0</span>
 
 ```rust
-crwdns40744:0crwdne40744:0
+crwdns80904:0crwdne80904:0
 ```
 
-crwdns40746:0crwdne40746:0 crwdns40748:0crwdne40748:0
 
-#### crwdns40750:0crwdne40750:0
+<span class="caption">crwdns80906:0crwdne80906:0</span>
 
-crwdns40752:0crwdne40752:0 crwdns40754:0crwdne40754:0
+crwdns80908:0crwdne80908:0 crwdns80910:0crwdne80910:0
 
-<figure>
-crwdns40756:0[index]crwdne40756:0
-</figure>
+#### crwdns80912:0crwdne80912:0
 
-crwdns40758:0crwdne40758:0 crwdns40760:0crwdne40760:0
+crwdns80914:0crwdne80914:0 crwdns80916:0crwdne80916:0
 
-```text
-crwdns40762:0crwdne40762:0
-```
-
-crwdns40764:0crwdne40764:0 crwdns40766:0crwdne40766:0
-
-crwdns40768:0crwdne40768:0 crwdns40770:0crwdne40770:0
-
-crwdns40772:0crwdne40772:0 crwdns40774:0crwdne40774:0
-
-<figure>
-crwdns40778:0crwdne40778:0
-</figure>
-
-crwdns40780:0crwdne40780:0 crwdns40786:0crwdne40786:0
-
-crwdns40790:0crwdne40790:0 crwdns40794:0crwdne40794:0
-
-crwdns40798:0crwdne40798:0 crwdns40800:0crwdne40800:0 crwdns40806:0crwdne40806:0
-
-crwdns40812:0crwdne40812:0
-
-<span class="filename">crwdns40816:0crwdne40816:0</span>
+<span class="filename">crwdns80918:0crwdne80918:0</span>
 
 ```rust
-crwdns40818:0crwdne40818:0
+crwdns80920:0crwdne80920:0
 ```
 
-crwdns40822:0crwdne40822:0
 
-## crwdns40826:0crwdne40826:0
+<span class="caption">crwdns80922:0crwdne80922:0</span>
 
-crwdns40828:0crwdne40828:0 crwdns40830:0crwdne40830:0 crwdns40834:0crwdne40834:0
+crwdns80924:0crwdne80924:0 crwdns80926:0crwdne80926:0 crwdns80928:0crwdne80928:0
 
-* crwdns40836:0crwdne40836:0
-* crwdns40842:0crwdne40842:0
-* crwdns40846:0crwdne40846:0
+```console
+crwdns80930:0crwdne80930:0
+```
 
-crwdns40850:0crwdne40850:0
+crwdns80932:0crwdne80932:0 crwdns80934:0crwdne80934:0
+
+crwdns80936:0crwdne80936:0 crwdns80938:0crwdne80938:0 crwdns80940:0crwdne80940:0
+
+crwdns80942:0crwdne80942:0 crwdns80944:0crwdne80944:0
+
+<span class="filename">crwdns80946:0crwdne80946:0</span>
+
+```rust
+crwdns80948:0crwdne80948:0
+```
+
+
+<span class="caption">crwdns80950:0crwdne80950:0</span>
+
+crwdns80952:0crwdne80952:0 crwdns80954:0crwdne80954:0
+
+crwdns80956:0crwdne80956:0
+
+crwdns80958:0crwdne80958:0 crwdns80960:0crwdne80960:0 crwdns80962:0crwdne80962:0
+
+crwdns80964:0crwdne80964:0
+
+<span class="filename">crwdns80966:0crwdne80966:0</span>
+
+```rust
+crwdns80968:0crwdne80968:0
+```
+
+crwdns80970:0crwdne80970:0
+
+## crwdns80972:0crwdne80972:0
+
+crwdns80974:0crwdne80974:0 crwdns80976:0crwdne80976:0 crwdns80978:0crwdne80978:0
+
+* crwdns80980:0crwdne80980:0
+* crwdns80982:0crwdne80982:0
+* crwdns80984:0crwdne80984:0
+
+crwdns80986:0crwdne80986:0
+crwdns80988:0crwdne80988:0
